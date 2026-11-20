@@ -1,0 +1,11 @@
+# Logs locales
+build_log.txt
+*.log
+
+# Configuración de Firebase (cada quien agrega la suya)
+google-services.json
+GoogleService-Info.plist
+
+# Kotlin / Gradle caches
+.kotlin/
+firebase_options.dart
